@@ -9,6 +9,8 @@
 </head>
 <body>
     <div id="root"></div>
+
+    @viteReactRefresh
     @vite('resources/js/index.tsx')
 </body>
 </html>
