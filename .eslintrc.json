@@ -9,10 +9,5 @@
     "@typescript-eslint"
   ],
   "rules": {
-  },
-  "overrides": [
-    {
-      "files": ["resources/**/*.ts?(x)"]
-    }
-  ]
+  }
 }
